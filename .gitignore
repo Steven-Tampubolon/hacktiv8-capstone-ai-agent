@@ -1,0 +1,17 @@
+# Environment & secrets
+.env
+*.env
+*api_key*
+*apikey*
+
+# Docker
+postgres_data/
+langflow_data/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
