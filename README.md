@@ -1,5 +1,25 @@
 # UMKM Insight Assistant
 
+### 🎓 Capstone Project & Certification
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://www.credly.com/badges/bfbc7eeb-4c6e-46e0-ba7e-ef8f049bac24">
+        <img src="https://images.credly.com/size/340x340/images/d8f30e8e-4c24-42e8-bb15-b106bb082614/BadgeEmblem_BuildAnAIAgent.png" width="200"><br>
+        <sub><b>IBM SkillsBuild Badge</b></sub>
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <a href="/serifikat-dan-badges-ibm-skillsbuild/hactiv8-certificate-ibm-skilsbuild-1.png">
+        <img src="/serifikat-dan-badges-ibm-skillsbuild/hactiv8-certificate-ibm-skilsbuild-1.png" width="220"><br>
+        <sub><b>Hacktiv8 Certificate </b></sub>
+      </a>
+    </td>
+  </tr>
+</table>
+---
+
 AI Agent berbasis Langflow untuk membantu pemilik UMKM toko online (fashion & gadget) mendapatkan insight penjualan melalui percakapan bahasa natural — tanpa perlu menulis query SQL atau membuat pivot table manual.
 
 ## Latar Belakang
